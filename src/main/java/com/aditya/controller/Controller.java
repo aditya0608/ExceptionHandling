@@ -38,7 +38,7 @@ public class Controller {
         {
             System.out.println("Generic exception...");
         }
-        finally {
+        finally{
             System.out.println("AFTER EXCEPTION ......");
 
         }
